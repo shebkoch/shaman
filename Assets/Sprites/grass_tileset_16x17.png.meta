@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: dcc2506a2dbc8bd4597fcae3c06ca410
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5171109303080771676
+    second: grass_tileset_16x16_0
+  - first:
+      213: 1025735273966744432
+    second: grass_tileset_16x16_1
+  - first:
+      213: 5500143005138066271
+    second: grass_tileset_16x16_2
+  - first:
+      213: 6290772391251081772
+    second: grass_tileset_16x16_3
+  - first:
+      213: 8441792624835572240
+    second: grass_tileset_16x16_4
+  - first:
+      213: 911616281495270243
+    second: grass_tileset_16x16_5
+  - first:
+      213: 8622325295536520229
+    second: grass_tileset_16x16_6
+  - first:
+      213: -4120121959698252041
+    second: grass_tileset_16x16_7
+  - first:
+      213: -2652810847646788747
+    second: grass_tileset_16x16_8
+  - first:
+      213: -1334141796347664657
+    second: grass_tileset_16x16_9
+  - first:
+      213: -8321639415417454998
+    second: grass_tileset_16x16_10
+  - first:
+      213: -880177584621367676
+    second: grass_tileset_16x16_11
+  - first:
+      213: 1074700404214974515
+    second: grass_tileset_16x16_12
+  - first:
+      213: 5357453412186616511
+    second: grass_tileset_16x16_13
+  - first:
+      213: -6629868472695971583
+    second: grass_tileset_16x16_14
+  - first:
+      213: 8806101462519275774
+    second: grass_tileset_16x16_15
+  - first:
+      213: -4671199149782631893
+    second: grass_tileset_16x16_16
+  - first:
+      213: -1246066694719140131
+    second: grass_tileset_16x16_17
+  - first:
+      213: -3701421043479954489
+    second: grass_tileset_16x16_18
+  - first:
+      213: -4066870696440433538
+    second: grass_tileset_16x16_19
+  - first:
+      213: -4237987956801858754
+    second: grass_tileset_16x16_20
+  - first:
+      213: -4045322560516862874
+    second: grass_tileset_16x16_21
+  - first:
+      213: 7842682040341301744
+    second: grass_tileset_16x16_22
+  - first:
+      213: 5371073108824116507
+    second: grass_tileset_16x16_23
+  - first:
+      213: -8851078323772312259
+    second: grass_tileset_16x16_24
+  - first:
+      213: 1547276380247591031
+    second: grass_tileset_16x16_25
+  - first:
+      213: -2556700146089309338
+    second: grass_tileset_16x16_26
+  - first:
+      213: -6943367820680786693
+    second: grass_tileset_16x16_27
+  - first:
+      213: 1496005094892782477
+    second: grass_tileset_16x16_28
+  - first:
+      213: -7074670504060601526
+    second: grass_tileset_16x16_29
+  - first:
+      213: 8609295305355712197
+    second: grass_tileset_16x16_30
+  - first:
+      213: 4691290100322900282
+    second: grass_tileset_16x16_31
+  - first:
+      213: 6401124887579369016
+    second: grass_tileset_16x16_32
+  - first:
+      213: 2381969609535058396
+    second: grass_tileset_16x16_33
+  - first:
+      213: -3196333605324177274
+    second: grass_tileset_16x16_34
+  - first:
+      213: 7638143450254572234
+    second: grass_tileset_16x16_35
+  - first:
+      213: 734569021331872460
+    second: grass_tileset_16x16_36
+  - first:
+      213: 7164380598768175462
+    second: grass_tileset_16x16_37
+  - first:
+      213: -7940156295898675121
+    second: grass_tileset_16x16_38
+  - first:
+      213: -1329747157704286836
+    second: grass_tileset_16x16_39
+  - first:
+      213: 5037007381785960794
+    second: grass_tileset_16x16_40
+  - first:
+      213: -5681754183004576991
+    second: grass_tileset_16x16_41
+  - first:
+      213: 2608694993746983901
+    second: grass_tileset_16x16_42
+  - first:
+      213: 2358324966797874999
+    second: grass_tileset_16x16_43
+  - first:
+      213: 8231593611270272089
+    second: grass_tileset_16x16_44
+  - first:
+      213: -6922641494180502774
+    second: grass_tileset_16x16_45
+  - first:
+      213: -7189645346007885471
+    second: grass_tileset_16x16_46
+  - first:
+      213: 4419965950178230809
+    second: grass_tileset_16x16_47
+  - first:
+      213: -2267422081721980514
+    second: grass_tileset_16x16_48
+  - first:
+      213: 6508492916155458276
+    second: grass_tileset_16x16_49
+  - first:
+      213: 6776388559259050573
+    second: grass_tileset_16x16_50
+  - first:
+      213: -1325635073774414369
+    second: grass_tileset_16x16_51
+  - first:
+      213: -1217759110764135281
+    second: grass_tileset_16x16_52
+  - first:
+      213: 1752346690022490754
+    second: grass_tileset_16x16_53
+  - first:
+      213: 1135502181965662970
+    second: grass_tileset_16x17_0
+  - first:
+      213: -1944997507815311620
+    second: grass_tileset_16x17_1
+  - first:
+      213: -6381832315829966369
+    second: grass_tileset_16x17_2
+  - first:
+      213: -3279662329054441065
+    second: grass_tileset_16x17_3
+  - first:
+      213: 8319205317038446789
+    second: grass_tileset_16x17_4
+  - first:
+      213: -4522722833615811127
+    second: grass_tileset_16x17_5
+  - first:
+      213: 6943194663832642046
+    second: grass_tileset_16x17_6
+  - first:
+      213: 7810296627129429001
+    second: grass_tileset_16x17_7
+  - first:
+      213: -7333944932282491777
+    second: grass_tileset_16x17_8
+  - first:
+      213: -98564070698174186
+    second: grass_tileset_16x17_9
+  - first:
+      213: -7132684783227969360
+    second: grass_tileset_16x17_10
+  - first:
+      213: -1882366912128931993
+    second: grass_tileset_16x17_11
+  - first:
+      213: 4772407412753868645
+    second: grass_tileset_16x17_12
+  - first:
+      213: -5515543329101287099
+    second: grass_tileset_16x17_13
+  - first:
+      213: 6432160161066326123
+    second: grass_tileset_16x17_14
+  - first:
+      213: 222200964024630605
+    second: grass_tileset_16x17_15
+  - first:
+      213: 6391393633675967882
+    second: grass_tileset_16x17_16
+  - first:
+      213: 6428877203276719224
+    second: grass_tileset_16x17_17
+  - first:
+      213: 5094140817000443699
+    second: grass_tileset_16x17_18
+  - first:
+      213: -4460306836361418086
+    second: grass_tileset_16x17_19
+  - first:
+      213: -7989906874868475619
+    second: grass_tileset_16x17_20
+  - first:
+      213: -7482147193751113111
+    second: grass_tileset_16x17_21
+  - first:
+      213: 7809834583615547213
+    second: grass_tileset_16x17_22
+  - first:
+      213: 8928100305073637729
+    second: grass_tileset_16x17_23
+  - first:
+      213: -8066270165030166201
+    second: grass_tileset_16x17_24
+  - first:
+      213: -173661236480708440
+    second: grass_tileset_16x17_25
+  - first:
+      213: 6052988961213299698
+    second: grass_tileset_16x17_26
+  - first:
+      213: -2236657275742218172
+    second: grass_tileset_16x17_27
+  - first:
+      213: 7730009829537267969
+    second: grass_tileset_16x17_28
+  - first:
+      213: 2754443371000424362
+    second: grass_tileset_16x17_29
+  - first:
+      213: -251390217789696189
+    second: grass_tileset_16x17_30
+  - first:
+      213: 139179470058270850
+    second: grass_tileset_16x17_31
+  - first:
+      213: -450922340954706229
+    second: grass_tileset_16x17_32
+  - first:
+      213: -7311820472966387407
+    second: grass_tileset_16x17_33
+  - first:
+      213: -8521880855915200616
+    second: grass_tileset_16x17_34
+  - first:
+      213: -2119011235321268411
+    second: grass_tileset_16x17_35
+  - first:
+      213: -8928728387612811421
+    second: grass_tileset_16x17_36
+  - first:
+      213: 5916740265142937157
+    second: grass_tileset_16x17_37
+  - first:
+      213: 7185243305530104732
+    second: grass_tileset_16x17_38
+  - first:
+      213: 4122864691981322838
+    second: grass_tileset_16x17_39
+  - first:
+      213: -4538865763514959980
+    second: grass_tileset_16x17_40
+  - first:
+      213: -4916111069984369195
+    second: grass_tileset_16x17_41
+  - first:
+      213: -280292055781601990
+    second: grass_tileset_16x17_42
+  - first:
+      213: 525631415968816678
+    second: grass_tileset_16x17_43
+  - first:
+      213: 5203315015508170101
+    second: grass_tileset_16x17_44
+  - first:
+      213: -1544060361284347481
+    second: grass_tileset_16x17_45
+  - first:
+      213: 1303112968887389867
+    second: grass_tileset_16x17_46
+  - first:
+      213: -9068137003074790049
+    second: grass_tileset_16x17_47
+  - first:
+      213: -2790079894105664294
+    second: grass_tileset_16x17_48
+  - first:
+      213: -7921891967855382857
+    second: grass_tileset_16x17_49
+  - first:
+      213: 1773147185184272479
+    second: grass_tileset_16x17_50
+  - first:
+      213: 7466310152695708860
+    second: grass_tileset_16x17_51
+  - first:
+      213: 5799005823943186826
+    second: grass_tileset_16x17_52
+  - first:
+      213: -1921475766770667719
+    second: grass_tileset_16x17_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grass_tileset_16x17_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5092f861979754d865cb450bafc37d
+      internalID: 1135502181965662970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df855b7341f1c6642994c4e77e24f608
+      internalID: -1944997507815311620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a1fa4e41fde046b3e02a0c772cacc
+      internalID: -6381832315829966369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97fb43b876064048b700dd1fe0cc1b2
+      internalID: -3279662329054441065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707049ee6ec12a48a553794691a33f7
+      internalID: 8319205317038446789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a5704fed2a2744b00642b961350e4
+      internalID: -4522722833615811127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd7e2af15c6e64f988e9d908b0637c
+      internalID: 6943194663832642046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b41327407478d48b7ded6008e0b88f
+      internalID: 7810296627129429001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e39872e9b0bdf4da6a32c9a1076cdd
+      internalID: -7333944932282491777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993bd9f79bc277c4d8a8ecac151cb059
+      internalID: -98564070698174186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bda5d8f1fec484296742926aaaae70
+      internalID: -7132684783227969360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4635a77961bd4891f41a59e6f72d6
+      internalID: -1882366912128931993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b0d03604a0c14db40e53360ff9231
+      internalID: 4772407412753868645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20f7c81136c0441bebdd73d3a780d6
+      internalID: -5515543329101287099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3b45be886d2b41a64e9401b182adf
+      internalID: 6432160161066326123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb7d8c88bd73f448c7d8c54bd4c9e9
+      internalID: 222200964024630605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00476ad37554aec41975d6b9832b44c2
+      internalID: 6391393633675967882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c35e237c67e04384d3d48f86a8951
+      internalID: 6428877203276719224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31c867054f16440ab145e8e6f3026d
+      internalID: 5094140817000443699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d6e406a166ba43bf06df78b0c0192
+      internalID: -4460306836361418086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83487b5c67cfae448bcab0e56fc7d08f
+      internalID: -7989906874868475619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06273f3cb9146e4498a944c3071980b
+      internalID: -7482147193751113111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beea745f94e5054a8c601db3ef23ac4
+      internalID: 7809834583615547213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4963b35c3ba647bcfb88f8e68cc17
+      internalID: 8928100305073637729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6a519e0659f34cb022f43acf2b60d
+      internalID: -8066270165030166201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b2e9d3c8ba2544bfa9747d8092d65
+      internalID: -173661236480708440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f6632fccf869449b2bdd916cc3fd3
+      internalID: 6052988961213299698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d8cf91cc3dfb45a686c00197186e3
+      internalID: -2236657275742218172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a225c74b80dc284aa9f005193baa68a
+      internalID: 7730009829537267969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4a2dd6d371c54db9ab93f4b2a3e9f
+      internalID: 2754443371000424362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a982b44443e3a4eb8d4b1ea496338f
+      internalID: -251390217789696189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a296c399fcbe04abc19b7ab18b6f13
+      internalID: 139179470058270850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b97eb19de64140b6182ac643b8bf6
+      internalID: -450922340954706229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b799d35a7ba1d45a94c870bdb5551a
+      internalID: -7311820472966387407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aab4cff6e341943934177ebbe0228c
+      internalID: -8521880855915200616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda451a52cba824b80e6103d4d15fd9
+      internalID: -2119011235321268411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054fea011586fcf4391c90b4c52eac8e
+      internalID: -8928728387612811421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e70be6d04dc849966d1d32e25a275
+      internalID: 5916740265142937157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c74a33e02943b45af12a431794b355
+      internalID: 7185243305530104732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad225f0e5d44ef7439d819bfec7a0b9b
+      internalID: 4122864691981322838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516adb82ceec724d81cf8ae98320745
+      internalID: -4538865763514959980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e490d895b5f39d54489171c127198855
+      internalID: -4916111069984369195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d24496fc27f34caaf39b3895f62bb
+      internalID: -280292055781601990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1581a443117b1464e80a280c200ca3c1
+      internalID: 525631415968816678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4d5549083ab74ab4ab7675c1f2018
+      internalID: 5203315015508170101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563fe7038edea3e47b9328da3e563386
+      internalID: -1544060361284347481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108054f726f7e6f4ebb393d1ceefbd47
+      internalID: 1303112968887389867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa24816bcdb3188489d66f44ed14129d
+      internalID: -9068137003074790049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff100bce6e708654e9bb5407a41e8346
+      internalID: -2790079894105664294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ae93a3b3f731468fef7d8144fb9f8
+      internalID: -7921891967855382857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e463d788a07c41ba6464a7b300fa8
+      internalID: 1773147185184272479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9ae2895249af46a7430845be62f9f
+      internalID: 7466310152695708860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa076c439721f274688537958aa3ce63
+      internalID: 5799005823943186826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x17_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74167f031ff474795875fa482755dc
+      internalID: -1921475766770667719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
